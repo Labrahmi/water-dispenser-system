@@ -2,6 +2,9 @@
 
 The Arduino Smart Water Dispenser System is a project designed to create an intelligent water dispensing system using various modules and sensors. This repository contains the code and documentation for building and implementing the system.
 
+## The circuit
+![The circuit](/Prototype.jpeg "The circuit")
+
 ## Features
 
 - **RFID User Identification:** Utilizes the MFRC522 RFID reader for secure user identification.
