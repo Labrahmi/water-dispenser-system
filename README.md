@@ -25,4 +25,3 @@ The Arduino Smart Water Dispenser System is a project designed to create an inte
 
 The project aims to provide a convenient and automated way for users to access water while maintaining a secure payment system through RFID cards. The intelligent system enhances user experience and encourages efficient water usage.
 
-Feel free to contribute, share feedback, or use the code for your own smart water dispenser project!
